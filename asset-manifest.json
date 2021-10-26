@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/multiform-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/multiform-react/static/js/main.f540848b.chunk.js",
+    "main.js.map": "/multiform-react/static/js/main.f540848b.chunk.js.map",
+    "runtime-main.js": "/multiform-react/static/js/runtime-main.93ad1a0b.js",
+    "runtime-main.js.map": "/multiform-react/static/js/runtime-main.93ad1a0b.js.map",
+    "static/js/2.afa6e18a.chunk.js": "/multiform-react/static/js/2.afa6e18a.chunk.js",
+    "static/js/2.afa6e18a.chunk.js.map": "/multiform-react/static/js/2.afa6e18a.chunk.js.map",
+    "index.html": "/multiform-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/multiform-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.afa6e18a.chunk.js.LICENSE.txt": "/multiform-react/static/js/2.afa6e18a.chunk.js.LICENSE.txt",
+    "static/media/book.42eae963.svg": "/multiform-react/static/media/book.42eae963.svg",
+    "static/media/mail.42fe45d2.svg": "/multiform-react/static/media/mail.42fe45d2.svg",
+    "static/media/profile.813d4fd3.svg": "/multiform-react/static/media/profile.813d4fd3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93ad1a0b.js",
+    "static/js/2.afa6e18a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f540848b.chunk.js"
+  ]
+}
