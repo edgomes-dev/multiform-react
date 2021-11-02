@@ -16,4 +16,19 @@ export const Container = styled.div`
         font-size: 14px;
         color: #B8B8D4;
     }
+
+    @media screen and (max-width: 768px)
+    {
+        h1
+        {
+            font-size: 24px;
+            text-align: center;
+        }
+
+        p
+        {
+            font-size: 12px;
+            text-align: center;
+        }
+    }
 `;

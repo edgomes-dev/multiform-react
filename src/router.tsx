@@ -8,7 +8,7 @@ import { FormStep3 } from './pages/FormStep3'
 export const Router = () => 
 {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Route path="/" exact={true} component={FormStep1} />
             <Route path="/step2" component={FormStep2} />
             <Route path="/step3" component={FormStep3} />

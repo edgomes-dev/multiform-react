@@ -17,11 +17,21 @@ export const Area = styled.div`
 export const Steps = styled.div`
     flex: 1;
     display: flex;
+
+    @media screen and (max-width: 768px)
+    {
+        flex-direction: column;
+    }
 `;
 
 export const Sidebar = styled.div`
     width: 250px;
     border-right: 1px solid #15195C;
+
+    @media screen and (max-width: 768px)
+    {
+        border: none;
+    }
 `;
 
 export const Page = styled.div`
