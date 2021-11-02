@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom'
 import * as C from './styles'
-import { ReactComponent as ProfileIcon } from '../../svgs/profile.svg'
-import { ReactComponent as BookIcon } from '../../svgs/book.svg'
-import { ReactComponent as MaillIcon } from '../../svgs/mail.svg'
+import { ReactComponent as ProfileIcon } from '../../assets/svgs/profile.svg'
+import { ReactComponent as BookIcon } from '../../assets/svgs/book.svg'
+import { ReactComponent as MaillIcon } from '../../assets/svgs/mail.svg'
 
 type Props =
 {

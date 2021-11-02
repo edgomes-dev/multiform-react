@@ -12,6 +12,11 @@ export const Container = styled.div<{ selected: boolean }>`
     {
         border: 2px solid #496459;
     }
+
+    @media screen and (max-width: 767px)
+    {
+        max-width: 70%;
+    }
 `;
 
 export const Icon = styled.div`

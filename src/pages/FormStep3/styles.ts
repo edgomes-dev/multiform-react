@@ -62,4 +62,29 @@ export const Container = styled.div`
         padding: 20px 40px;
         color: #B8B8D4;
     }
+
+    @media screen and (max-width: 768px)
+    {
+        text-align: center;
+
+        p
+        {
+            max-width: 90%;
+        }
+
+        h1
+        {
+            font-size: 24px;
+        }
+
+        button
+        {
+            margin-bottom: 15px;
+        }
+
+        input
+        {
+            max-width: 90%;
+        }
+    }
 `;
